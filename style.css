@@ -1,0 +1,12 @@
+body {
+  background-color:black;
+}
+
+.heading {
+  padding 30px;
+  font-size:40px;
+  border-radius:40px;
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  background-color:#f3f3f3;
+  color:black;
+}
