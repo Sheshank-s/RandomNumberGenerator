@@ -3,7 +3,7 @@ body {
 }
 
 .heading {
-  padding 30px;
+  padding: 30px;
   font-size:40px;
   border-radius:40px;
   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
