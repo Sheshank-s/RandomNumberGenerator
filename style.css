@@ -10,3 +10,8 @@ body {
   background-color:#f3f3f3;
   color:black;
 }
+
+.centeredImage {
+    display: block;
+    margin: auto;
+}
