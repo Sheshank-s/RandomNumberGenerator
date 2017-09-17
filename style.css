@@ -4,6 +4,7 @@ body {
   padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  background: url(background.svg);
 }
 
 .heading {
