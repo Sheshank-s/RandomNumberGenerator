@@ -7,6 +7,11 @@ body {
   background: url(background.svg) fixed;
 }
 
+#header-image {
+  padding: 30px;
+  border-radius: 30px; 
+}
+
 .heading {
   padding: 30px;
   font-size:40px;
