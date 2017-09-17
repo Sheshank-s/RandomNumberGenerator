@@ -7,8 +7,34 @@ body {
   background: url(background.svg) fixed;
 }
 
+.numBox {
+  display: inline-block;
+  height: 58px;
+  vertical-align: text-bottom;
+  font-size: 30px;
+  width: 101px;
+  font-family: "open sans";
+  border-radius: 50px; 
+}
+
 .centeredText {
   text-align: center;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
 }
 
 #header-image {
