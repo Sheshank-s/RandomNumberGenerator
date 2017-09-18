@@ -20,10 +20,7 @@ body {
 
 .numBox:hover {
  border-color: slategray;
-  -webkit-transition: 2s; /* Safari */
-  -webkit-transition-timing-function: linear; /* Safari */
-  transition:  2s;
-  transition-timing-function: linear;
+ transition: all 0.5s ease;
   
 }
 
