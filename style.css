@@ -16,6 +16,8 @@ body {
   font-family: "open sans";
   border: 3px solid lightgray;
   border-radius: 50px; 
+  padding-left: 10px;
+  text-align: center;
 }
 
 .numBox:hover {
