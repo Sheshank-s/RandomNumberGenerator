@@ -20,8 +20,11 @@ body {
 
 .numBox:hover {
  border-color: slategray;
- transition: all 0.5s ease;
-  
+ transition: all 0.5s ease; 
+}
+
+.numBox:focus {
+ outline: none; 
 }
 
 .centeredText {
