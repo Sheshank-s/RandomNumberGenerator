@@ -55,6 +55,7 @@ body {
 }
 
 .heading {
+  text-align:center;
   padding: 30px;
   font-size:40px;
   border-radius:40px;
