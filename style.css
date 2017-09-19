@@ -7,6 +7,13 @@ body {
   background: url(background.svg) fixed;
 }
 
+.input {
+   background-color: greenyellow;
+   border-top-left-radius: 40px;
+   border-top-right-radius: 40px;
+   padding: 5px; 
+}
+
 .numBox {
   display: inline-block;
   height: 35px;
@@ -56,12 +63,15 @@ body {
 
 .heading {
   text-align:center;
-  padding: 30px;
+  padding-bottom: 30px;
   font-size:40px;
   border-radius:40px;
   font-family: 'Montserrat';
   background-color:#f3f3f3;
   color:black;
+  padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .centeredImage {
