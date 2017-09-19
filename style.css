@@ -63,12 +63,16 @@ body {
 
 .heading {
   text-align:center;
-  padding-bottom: 30px;
+  padding: 30px;
   font-size:40px;
   border-radius:40px;
   font-family: 'Montserrat';
   background-color:#f3f3f3;
   color:black;
+}
+
+.specialheading {
+
   padding-top: 0px;
     padding-left: 0px;
     padding-right: 0px;
