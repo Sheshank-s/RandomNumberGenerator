@@ -9,10 +9,10 @@ body {
 
 .numBox {
   display: inline-block;
-  height: 58px;
+  height: 35px;
   vertical-align: text-bottom;
-  font-size: 30px;
-  width: 101px;
+  font-size: 20px;
+  width: 70px;
   font-family: "open sans";
   border: 3px solid lightgray;
   border-radius: 50px;
@@ -66,4 +66,8 @@ body {
 .centeredImage {
     display: block;
     margin: auto;
+}
+
+h2 {
+ font-size: 1em; 
 }
