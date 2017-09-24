@@ -1,16 +1,12 @@
 body {
-  background-color:black;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-left: 100px;
-  padding-right: 100px;
+  background-color: black;
   background: url(background.svg) fixed;
+  margin: 10px;
 }
 
 .input {
    background-color: greenyellow;
-   border-top-left-radius: 40px;
-   border-top-right-radius: 40px;
+   border-radius: 10px 10px 0px 0px;
    padding: 10px; 
 }
 
@@ -62,20 +58,22 @@ body {
 }
 
 .heading {
-  text-align:center;
-  padding: 30px;
-  font-size:40px;
-  border-radius:40px;
+  text-align: center;
+  font-size: 40px;
+  border-radius: 10px 10px 0px 0px;
   font-family: 'Montserrat';
-  background-color:#a5ffd2;
-  color:black;
+  background-color: #a5ffd2;
+  color: black;
+  margin: auto;
+  max-width: 800px;
+  box-sizing: border-box;
+  padding: 30px;
+  box-shadow: 0 5px 10px #000;
 }
 
 .specialheading {
-
-  padding-top: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
+  padding: 0;
+  padding-bottom: 30px;
 }
 
 .centeredImage {
@@ -84,5 +82,5 @@ body {
 }
 
 h2 {
- font-size: 1em; 
+ font-size: 3vw; 
 }
