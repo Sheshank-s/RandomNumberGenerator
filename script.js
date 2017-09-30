@@ -4,9 +4,8 @@ function randomNumber (max, min) {
 }
 
 function onClick() {
-   var max = document.getElementById("maxInput").value;
-   var min = document.getElementById("minInput").value;
-   console.log(max);
-   console.log(min);
-   alert(randomNumber(max,min));
+   var max = parseInt(document.getElementById("maxInput").value);
+   var min = parseInt(document.getElementById("minInput").value);
+   var randomNumber = randomNumber(max,min);
+   document.getElementById("output").innerHTML = randomNumber;
 }
