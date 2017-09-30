@@ -116,6 +116,7 @@ h2 {
  transition: all 0.3s ease; 
 }
 
-.button:focus: {
+.button:focus {
     border-bottom: 0px solid #312e2e;
+  outline: none;
 }
