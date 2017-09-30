@@ -2,10 +2,13 @@
 
 body {
   
- transition: all 0.3s ease; 
   background-color: black;
   background: url(background.svg) fixed;
   margin: 10px;
+}
+
+.bouncy {
+ transition: all 0.5s ease;  
 }
 
 center {
