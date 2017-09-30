@@ -6,6 +6,11 @@ body {
   margin: 10px;
 }
 
+center {
+  padding-top:15px;
+  padding-bottom:30px;
+}
+
 .input {
    background-color: greenyellow;
    border-radius: 10px 10px 0px 0px;
