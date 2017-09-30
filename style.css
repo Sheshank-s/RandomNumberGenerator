@@ -17,7 +17,7 @@ center {
 }
 
 .input {
-   background-color: greenyellow;
+   background-color: #e74c3c;
    border-radius: 10px 10px 0px 0px;
    padding: 10px; 
 }
@@ -74,7 +74,7 @@ center {
   font-size: 40px;
   border-radius: 10px 10px 0px 0px;
   font-family: 'Montserrat';
-  background-color: #a5ffd2;
+  background-color: #2980b9;
   color: black;
   margin: auto;
   max-width: 800px;
@@ -103,7 +103,7 @@ h2 {
     border-radius: 15px;
     border: 0px;
     border-bottom: 5px solid #312e2e;
-    background-color: #e22727;
+    background-color: #ecf0f1;
     color: #efe3e3;
     font-family: "Open Sans";
   
@@ -111,8 +111,8 @@ h2 {
 }
 
 .button:hover {
- color:  #e22727;
-  background-color: #efe3e3;
+ color:  #3498db;
+  background-color: #ecf0f1;
  transition: all 0.3s ease; 
 }
 
