@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans); 
+
 body {
   background-color: black;
   background: url(background.svg) fixed;
@@ -83,4 +85,15 @@ body {
 
 h2 {
  font-size: 3vw; 
+}
+
+.button {
+  font-size: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 0px;
+    border-bottom: 5px solid #312e2e;
+    background-color: #e22727;
+    color: #efe3e3;
+    font-family: "Open Sans";
 }
