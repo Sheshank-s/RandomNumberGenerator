@@ -5,6 +5,6 @@ function randomNumber (max, min) {
 
 function onClick() {
    var max = document.getElementById("maxInput").value;
-   var min = document.getElementById("min").value;
+   var min = document.getElementById("minInput").value;
    alert(randomNumber(max,min));
 }
