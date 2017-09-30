@@ -131,8 +131,3 @@ p {
     border-bottom: 0px solid #312e2e;
   outline: none;
 }
-
-#output {
-  font-size:30px;
- transition: all 1s ease; 
-}
