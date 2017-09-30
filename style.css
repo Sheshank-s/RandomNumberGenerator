@@ -101,6 +101,8 @@ h2 {
     background-color: #e22727;
     color: #efe3e3;
     font-family: "Open Sans";
+  
+ transition: all 0.3s ease; 
 }
 
 .button:hover {
