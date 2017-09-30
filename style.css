@@ -107,5 +107,8 @@ h2 {
  color:  #e22727;
   background-color: #efe3e3;
  transition: all 0.3s ease; 
-    border-bottom: 0px solid #312e2e;
+}
+
+.button:focus: {
+    border-bottom: 5px solid #312e2e;
 }
