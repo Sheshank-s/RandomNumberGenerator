@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans); 
 
 body {
+  
+ transition: all 0.3s ease; 
   background-color: black;
   background: url(background.svg) fixed;
   margin: 10px;
