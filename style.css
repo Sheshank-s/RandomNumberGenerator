@@ -110,5 +110,5 @@ h2 {
 }
 
 .button:focus: {
-    border-bottom: 5px solid #312e2e;
+    border-bottom: 0px solid #312e2e;
 }
