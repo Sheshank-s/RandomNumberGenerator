@@ -5,6 +5,7 @@ body {
   background-color: black;
   background: url(background.svg) fixed;
   margin: 10px;
+  color:#ecf0f1;
 }
 
 .bouncy {
@@ -103,7 +104,7 @@ h2 {
     border-radius: 15px;
     border: 0px;
     border-bottom: 5px solid #312e2e;
-    background-color: #ecf0f1;
+    background-color: #3498db;
     color: #efe3e3;
     font-family: "Open Sans";
   
