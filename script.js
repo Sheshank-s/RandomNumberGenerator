@@ -8,4 +8,5 @@ function onClick() {
    var min = parseInt(document.getElementById("minInput").value);
    var rand = randomNumber(max,min);
    document.getElementById("output").innerHTML = rand;
+ document.getElementById("output").style.cssText = "font-size:30px;transition: all 1s ease;";
 }
