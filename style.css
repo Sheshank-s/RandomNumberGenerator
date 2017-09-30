@@ -118,6 +118,7 @@ h2 {
 }
 
 .button:focus {
+  padding:15px;
     border-bottom: 0px solid #312e2e;
   outline: none;
 }
